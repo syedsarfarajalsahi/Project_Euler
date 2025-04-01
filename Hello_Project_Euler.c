@@ -4,4 +4,5 @@
 int main()
 {
     printf("Hello Project Euler!");
+    return 0;
 }
